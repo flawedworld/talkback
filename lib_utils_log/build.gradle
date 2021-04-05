@@ -11,6 +11,6 @@ android {
 }
 
 dependencies {
-    implementation 'com.google.guava:guava:22.0'
+    implementation 'com.google.guava:guava:23.0'
     implementation 'org.checkerframework:checker-qual:2.5.8'
 }
